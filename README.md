@@ -39,8 +39,11 @@ It also helped me understand how basic data analysis techniques can be used to l
 
 ### Project File
 
-📓 [Sales Data Analysis Notebook](Sales_Data_Analysis_and_Reporting.ipynb)
+## 📁 Project File
 
----
+📓 [Sales Data Analysis Notebook](Sales_Data_Analysis.ipynb)
 
-I will keep adding more projects here as I continue learning and improving my Data Analytics skills. 🌱
+## 🌱 More Projects
+
+I will keep adding more Data Analytics projects here as I continue learning and improving my skills.
+
